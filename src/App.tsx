@@ -210,7 +210,7 @@ function App() {
       name: 'James Gouse',
       role: 'Graphic Designer',
       image: { MessageIMG },
-      review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in arcu cursus.',
+      review: 'Lorem ipsum door sit amet, consectetur adipiscing elit. Vitae nulla diam in arcu cursus.',
     },
     {
       name: 'Tiana Philips',
