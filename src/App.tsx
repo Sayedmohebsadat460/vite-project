@@ -397,7 +397,7 @@ function App() {
         <NavigationMenu>
           <NavigationMenuList>
             <NavigationMenuItem>
-              <NavigationMenuTrigger>Item One</NavigationMenuTrigger>
+              <NavigationMenuTrigger>Item One and one and half </NavigationMenuTrigger>
               <NavigationMenuContent>
                 <NavigationMenuLink className='p-4'>Link</NavigationMenuLink>
               </NavigationMenuContent>
