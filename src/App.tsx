@@ -382,7 +382,7 @@ function App() {
         <hr className='mt-7 h-0.5 bg-gray-200' />
         {/* ex skills */}
         <div>
-          <h1 className='font-bold'>Extra Skills</h1>
+          <h1 className='font-bold'>Extra 3 Skills</h1>
           <div className='mt-4 flex'><img src={ExIcon} alt="" /><span className='ml-2'>Bootstrap, Materialize</span></div>
           <div className='mt-4 flex'><img src={ExIcon} alt="" /><span className='ml-2'>Stylus, Sass, Less</span></div>
           <div className='mt-4 flex'><img src={ExIcon} alt="" /><span className='ml-2'>Gulp, Webpack, Grunt</span></div>
