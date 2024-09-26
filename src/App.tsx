@@ -403,7 +403,7 @@ function App() {
               </NavigationMenuContent>
             </NavigationMenuItem>
             <NavigationMenuItem>
-              <NavigationMenuTrigger>Item One</NavigationMenuTrigger>
+              <NavigationMenuTrigger>Item  d One</NavigationMenuTrigger>
               <NavigationMenuContent>
                 <NavigationMenuLink className='p-4'>Link</NavigationMenuLink>
               </NavigationMenuContent>
